@@ -2,6 +2,7 @@
 
 #include "Variables.h"
 
+
 Sampler :: Sampler()
 {
 	x = 0.0f;
